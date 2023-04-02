@@ -139,14 +139,14 @@ justify-content: center;
     color: pink;
 }
 
+.triple{
+    flex-basis:47%;
+
 
 .double{
     flex-basis:47%;
 }
 
-.triple{
-  flex-basis:47%; 
-}
 
 #mod{
     backdrop-filter: blur(5.5px);
