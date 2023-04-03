@@ -39,7 +39,7 @@ body{
     background: rgba(232, 21, 91, 0.377);
     border: 1px solid black;
     border-radius: 16px;
-    box-shadow: 1px 4px 30px rgba(35,35,35,0.1);
+    box-shadow: 1px 4px 30px black;
     color: #232323;
     backdrop-filter: blur (4px);
     -webkit-backdrop-filter: blur(4px);
